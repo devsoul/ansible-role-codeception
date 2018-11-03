@@ -1,0 +1,8 @@
+---
+- name: Install Codeception.
+  become: true
+  get_url:
+    url: http://codeception.com/codecept.phar
+    dest: /usr/local/bin/codecept
+    mode: 0755
+    force: true

@@ -1,0 +1,44 @@
+---
+galaxy_info:
+  author: devsoul
+  role_name: codeception
+  description: Install Codeception testing framework on your Linux machine
+  company: Devhost Ltd.
+  license: MIT
+  min_ansible_version: 2.0
+  platforms:
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+    - name: GenericLinux
+      versions:
+        - all
+    - name: FreeBSD
+      versions:
+        - all
+    - name: GenericBSD
+      versions:
+        - all
+    - name: GenericUNIX
+      versions:
+        - all
+  galaxy_tags:
+    - codeception
+    - phpunit
+    - php
+    - phpdev
+    - phptools
+    - phpapps
+    - development
+    - web
+
+dependencies: []
