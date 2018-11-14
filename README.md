@@ -1,5 +1,6 @@
 Codeception Ansible role
 =========
+[![Build Status](https://travis-ci.com/devsoul/ansible-role-codeception.svg?branch=master)](https://travis-ci.com/devsoul/ansible-role-codeception)
 
 If you are a PHP developer and you use Codeception testing framework.
 
